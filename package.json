@@ -1,0 +1,22 @@
+{
+  "name": "sc-the-foundation-big-o-constant-time",
+  "version": "1.0.0",
+  "description": "The Foundation: Big O - Constant Time",
+  "main": "1st-object-indexes.ts",
+  "scripts": {
+    "start": "ts-node 1st-object-indexes.ts",
+    "test-1st": "ts-node __test__/1st-object-indexes.test.ts",
+  },
+  "keywords": [
+    "Big O Notation",
+    "Constant Time",
+    "Learn By Doing",
+    "TypeScript"
+  ],
+  "author": "assistance.xavier@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
